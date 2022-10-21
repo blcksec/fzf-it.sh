@@ -1,4 +1,4 @@
-fzf-git.sh
+fzf-it.sh
 ==========
 
 bash and zsh key bindings for Git objects, powered by [fzf][fzf].
@@ -8,7 +8,7 @@ bash and zsh key bindings for Git objects, powered by [fzf][fzf].
 Each binding will allow you to browse through Git objects of a certain type,
 and select the objects you want to paste to your command-line.
 
-[fzf]: https://github.com/junegunn/fzf
+[fzf]: https://github.com/blcksec/fzf
 
 Installation
 ------------
@@ -16,7 +16,7 @@ Installation
 1. Install the latest version of [fzf][fzf]
     * (Optional) Install [bat](https://github.com/sharkdp/bat) for
       syntax-highlighted file previews
-1. Source [fzf-git.sh](https://raw.githubusercontent.com/junegunn/fzf-git.sh/main/fzf-git.sh) file from your .bashrc or .zshrc
+1. Source [fzf-it.sh](https://raw.githubusercontent.com/blcksec/fzf-it.sh/main/fzf-it.sh) file from your .bashrc or .zshrc
 
 Usage
 -----
